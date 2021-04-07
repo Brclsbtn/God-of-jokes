@@ -313,4 +313,4 @@ async def tatarn(ctx):
 		await ctx.send("Woof woof!")
 
 
-bot.run("ODA5MDEyMTYyNDQxNTEwOTEy.YCO5Sg.EJwctcjUphDp5wAMxsLjLbBVibE")
+bot.run("token_here")
